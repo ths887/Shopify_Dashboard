@@ -70,6 +70,28 @@ Automated refresh & Power BI Service publishing
 
 ---
 
-📊 Screenshot
+## 🖼️ Dashboard Preview
+
+Below is a snapshot of the interactive Power BI dashboard created for Shopify sales and customer analysis 👇  
+
+![Shopify Dashboard Preview](## 🖼️ Dashboard Preview
+
+Below is a snapshot of the interactive Power BI dashboard created for Shopify sales and customer analysis 👇  
+
+![Shopify Dashboard Preview](https://raw.githubusercontent.com/ThusharaTS/Shopify-Sales-Dashboard/main/images/dashboard_preview.png)
+
+The dashboard highlights:
+- 💰 Real-time sales, orders & refund data  
+- 👥 Customer funnel (new vs returning customers)  
+- 🌍 Regional sales heatmap  
+- 🛍️ Top product and category insights  
+)
+
+The dashboard highlights:
+- 💰 Real-time sales, orders & refund data  
+- 👥 Customer funnel (new vs returning customers)  
+- 🌍 Regional sales heatmap  
+- 🛍️ Top product and category insights  
+
 
 
