@@ -87,11 +87,7 @@ The dashboard highlights:
 - 🛍️ Top product and category insights  
 )
 
-The dashboard highlights:
-- 💰 Real-time sales, orders & refund data  
-- 👥 Customer funnel (new vs returning customers)  
-- 🌍 Regional sales heatmap  
-- 🛍️ Top product and category insights  
+
 
 
 
