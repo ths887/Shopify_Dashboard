@@ -78,7 +78,7 @@ Below is a snapshot of the interactive Power BI dashboard created for Shopify sa
 
 Below is a snapshot of the interactive Power BI dashboard created for Shopify sales and customer analysis 👇  
 
-![Shopify Dashboard Preview](https://raw.githubusercontent.com/ThusharaTS/Shopify-Sales-Dashboard/main/images/dashboard_preview.png)
+![Shopify Dashboard Preview](https://github.com/ths887/Shopify_Dashboard/blob/main/SHOPIFY_PROJECT_TEMPLATE.png?raw=true)
 
 The dashboard highlights:
 - 💰 Real-time sales, orders & refund data  
