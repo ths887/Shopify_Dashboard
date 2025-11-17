@@ -74,10 +74,6 @@ Automated refresh & Power BI Service publishing
 
 Below is a snapshot of the interactive Power BI dashboard created for Shopify sales and customer analysis 👇  
 
-![Shopify Dashboard Preview](## 🖼️ Dashboard Preview
-
-Below is a snapshot of the interactive Power BI dashboard created for Shopify sales and customer analysis 👇  
-
 ![Shopify Dashboard Preview](https://github.com/ths887/Shopify_Dashboard/blob/main/SHOPIFY_PROJECT_TEMPLATE.png?raw=true)
 
 The dashboard highlights:
